@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Building my Copier"
+g++ myCopier.cpp -o myCopier
+echo "Complete"
